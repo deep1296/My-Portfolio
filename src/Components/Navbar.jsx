@@ -24,7 +24,7 @@ export function Navbar() {
           spy={true}
           hashSpy={true}
         >
-          <div className={styles.nav}>about</div>
+          <div className={styles.nav}>About</div>
         </Link>
         <Link
           to="skills"
@@ -34,7 +34,7 @@ export function Navbar() {
           spy={true}
           hashSpy={true}
         >
-          <div className={styles.nav}>skills</div>
+          <div className={styles.nav}>Skills</div>
         </Link>
         <Link
           to="projects"
@@ -44,7 +44,7 @@ export function Navbar() {
           spy={true}
           hashSpy={true}
         >
-          <div className={styles.nav}>projects</div>
+          <div className={styles.nav}>Projects</div>
         </Link>
         <Link
           to="contact"
@@ -54,7 +54,7 @@ export function Navbar() {
           spy={true}
           hashSpy={true}
         >
-          <div className={styles.nav}>contact</div>
+          <div className={styles.nav}>Contact</div>
         </Link>
       </div>
     </div>

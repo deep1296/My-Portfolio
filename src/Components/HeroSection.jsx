@@ -50,7 +50,7 @@ export function HeroSection() {
           <p>
             I am <span>Dipak</span>{" "}
           </p>
-          <p>Web Developer</p>
+          <p className={styles.proffesion}>Full Stack Web Developer</p>
           <a
             href="https://drive.google.com/file/d/1atTT_DBAik6fJZPNyAOK9UmezgTudDPk/view?usp=sharing"
             target="_blank"
