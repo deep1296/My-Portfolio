@@ -39,20 +39,22 @@ const projects = [
       <SiCss3 className={styles.stackIcon} />,
     ],
   },
-  {
-    name: "Zara.com clone",
-    img: "/zara.jpg",
-    link: "https://thotapavankumar.github.io/Zara_Project_Clone/",
-    git: "https://github.com/Gajanan-Watt/zara_web.git",
-    about:
-      " It is an e-commerce website having varieties of luxury items which are of high quality. We have tried to clone the pixel perfect website with the help of HTML. Implemented using HTML, CSS and javascript.",
-    stacks: [
-      // <SiReact className={styles.stackIcon} />,
-      <SiJavascript className={styles.stackIcon} />,
-      <SiHtml5 className={styles.stackIcon} />,
-      <SiCss3 className={styles.stackIcon} />,
-    ],
-  },
+
+  
+  // {
+  //   name: "Zara.com clone",
+  //   img: "/zara.jpg",
+  //   link: "https://thotapavankumar.github.io/Zara_Project_Clone/",
+  //   git: "https://github.com/Gajanan-Watt/zara_web.git",
+  //   about:
+  //     " It is an e-commerce website having varieties of luxury items which are of high quality. We have tried to clone the pixel perfect website with the help of HTML. Implemented using HTML, CSS and javascript.",
+  //   stacks: [
+  //     // <SiReact className={styles.stackIcon} />,
+  //     <SiJavascript className={styles.stackIcon} />,
+  //     <SiHtml5 className={styles.stackIcon} />,
+  //     <SiCss3 className={styles.stackIcon} />,
+  //   ],
+  // },
   // {
   //   name: "Pixel Art",
   //   img: "/doggo2.png",
