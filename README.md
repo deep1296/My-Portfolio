@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed link 
 
-- https://deep-1296.netlify.app/
+- https://deep-1296.vercel.app/
 
 ## Available Scripts
 
