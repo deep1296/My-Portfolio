@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed link 
 
-- https://dipak-tange.netlify.app/
+- https://deep-1296.netlify.app/
 
 ## Available Scripts
 
